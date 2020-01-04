@@ -7,3 +7,10 @@ Lights Out is a logic/puzzle game, played on a gird of individual lights, which 
 ### Registration and login page
 
 !["Lights Out"](https://github.com/siningtong/LightsOut/blob/master/docs/ezgif.com-video-to-gif.gif?raw=true)
+
+## Getting Started
+
+- Fork this repository, then clone your fork of this repository.
+- Install dependencies using the npm install command.
+- Start the web server using the npm run local command. The app will be served at http://localhost:3000/.
+- Go to http://localhost:3000/ in your browser.
